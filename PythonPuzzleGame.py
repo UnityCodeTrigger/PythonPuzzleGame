@@ -8,7 +8,7 @@ height = 10
 playerX = int(width * 0.5)
 playerY = int(height * 0.5)
 
-#Esto es una Multidimensional array, ni puta idea de como esta declarada pero esta ahy.
+#Esto es una Multidimensional array, ni puta idea de como esta declarada pero esta ahi.
 gridValue = [[0] * width for _ in range(height)]
 
 #Generate Floor Hole
